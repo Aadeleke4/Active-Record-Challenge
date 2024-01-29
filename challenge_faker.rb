@@ -1,4 +1,4 @@
-# challenge_faker.rb
+
 
 require_relative 'ar'
 require_relative 'models/category'
